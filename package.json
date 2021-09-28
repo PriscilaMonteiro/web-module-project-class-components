@@ -32,6 +32,6 @@
     ]
   },
   "devDependencies": {
-    "sass": "^1.32.8"
+    "sass": "^1.42.1"
   }
 }
